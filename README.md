@@ -51,6 +51,6 @@ Aplicativo de conversão de moedas desenvolvido em React Native com Expo, que pe
 
 ## Equipe de Desenvolvimento
 
-- **Samuel Santos Oliveira**
+- **Samuel Santos Oliveira & Bruno Ribeiro da Silva**
 - **Curso**: 3 Ano Desenvolvimento de Sistemas
 - **Escola**: ETEC Euro Albino de Souza
